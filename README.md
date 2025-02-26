@@ -100,8 +100,5 @@
 
 ---
 
-## Conclusion
+![image](https://github.com/user-attachments/assets/df3b5407-0047-40f4-bfdb-37696fb3524b)
 
-Cette documentation vous guide à travers les étapes nécessaires pour configurer un PC du client, installer une image système, et vérifier les informations relatives au BIOS et au type de partition du disque. En suivant chaque méthode, vous pourrez facilement déterminer si l’ordinateur utilise un système UEFI ou un BIOS Legacy et si le disque est en GPT ou MBR.
-
-Si vous avez des questions ou des doutes supplémentaires, n’hésitez pas à demander des éclaircissements ou de l’aide supplémentaire !
